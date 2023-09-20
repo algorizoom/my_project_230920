@@ -102,4 +102,4 @@ ___
 
 [네이버](www.naver.com)
 
-![설명](https://cdn.pixabay.com/photo/2014/04/13/20/49/cat-323262_1280.jpg)
+![고양이](https://cdn.pixabay.com/photo/2014/04/13/20/49/cat-323262_1280.jpg)
